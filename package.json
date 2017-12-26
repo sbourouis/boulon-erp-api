@@ -9,7 +9,7 @@
     "lint": "eslint .",
     "start": "node .",
     "posttest": "npm run lint && nsp check",
-    "erp:backend": "cd backend && npm i && npm start"
+    "erp:backend": "npm i && npm start"
   },
   "dependencies": {
     "compression": "^1.0.3",
