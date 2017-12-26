@@ -1,4 +1,4 @@
-Consulter l'application : https://stark-retreat-54812.herokuapp.com/explorer/  
+Consulter l'application : https://stark-retreat-54812.herokuapp.com/explorer/
 Front-end disponible ici : https://github.com/sbourouis/boulon-erp
 
 # Pré-requis
